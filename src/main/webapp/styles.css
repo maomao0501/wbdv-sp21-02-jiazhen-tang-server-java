@@ -1,0 +1,10 @@
+body {
+    background-color: lightgrey;
+}
+.center {
+    text-align: center;
+}
+a {
+    color: green;
+    font-size: large;
+}
