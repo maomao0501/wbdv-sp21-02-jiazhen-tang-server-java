@@ -6,6 +6,9 @@
     z-index: 1;
 }
 
+.wbdv-word-color {
+    color: white;
+}
 p {
     color: white;
     font-size: large;
