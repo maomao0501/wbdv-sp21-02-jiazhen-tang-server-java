@@ -109,7 +109,7 @@
                 .prepend(`
       <tr>
           <td>${user.Username}</td>
-          <td>${user.Password}</td>
+          <td><a hidden>${user.Password}</a></td>
           <td>${user.FirstName}</td>
           <td>${user.LastName}</td>
           <td>${user.Role}</td>
